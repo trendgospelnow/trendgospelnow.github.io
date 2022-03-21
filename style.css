@@ -1,0 +1,29 @@
+* {
+    background-color: white;
+}
+
+#logo {
+    width: 100px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+#title {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+em {
+    display: block;
+    text-align: center;
+    
+}
+#youtube {
+    margin: 20px;
+    text-align: center;
+}
